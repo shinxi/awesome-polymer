@@ -107,6 +107,7 @@
 * [Synthesis](https://github.com/meteorwebcomponents/synthesis) Use Polymer as the view Layer of Meteor.js
 * [MWC-Layout](https://github.com/meteorwebcomponents/layout) Control rendering of polymer components.
 * [WC-Loader](https://github.com/aruntk/wc-loader). Webcomponents webpack loader
+* [Polymer Webpack Loader](https://github.com/webpack-contrib/polymer-webpack-loader). Polymer webpack loader.
 
 ## Testing
 * [Web components tester](https://github.com/Polymer/web-component-tester) Makes testing your web components a breeze!
